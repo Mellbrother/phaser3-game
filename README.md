@@ -1,4 +1,4 @@
-# phaser3-tutorial
+# phaser3-game
 
 ## やったこと
 - チュートリアルのコードをexpressで立ち上げ
